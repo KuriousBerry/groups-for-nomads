@@ -725,9 +725,13 @@
 <p>&nbsp;</p><p>&nbsp;</p>
 
 ## India 🇮🇳 <a name="india"></a>
-![Whatsapp](icons/whatsapp.svg) [India Nomads](https://chat.whatsapp.com/K3q23k9F6M4IWHKLKI7m0E)
-
 ![Whatsapp](icons/whatsapp.svg) [Backpackers in India 🇮🇳](https://chat.whatsapp.com/H8cXuNXuZdRDIW5C0EsZa6)
+
+![Whatsapp](icons/whatsapp.svg) [North Goa Community](https://chat.whatsapp.com/LuB0kwDCJJxBBveaViO2NJ)
+
+![Whatsapp](icons/whatsapp.svg) [South Goa Community](https://chat.whatsapp.com/FDuEWPDeVHm5MPZlH2ZbaO)
+
+![Whatsapp](icons/whatsapp.svg) [The Circle Women & Non-Binary](https://chat.whatsapp.com/FNpFHjfEHCK11wCsJ6MjWo)
 
 <p>&nbsp;</p><p>&nbsp;</p>
 
@@ -813,7 +817,7 @@
 ## Sri Lanka 🇱🇰 <a name="srilanka"></a>
 ![Whatsapp](icons/whatsapp.svg) [Backpackers in Sri Lanka 🇱🇰](https://chat.whatsapp.com/CqbtuOd5aUkCDIHrEqWVDL)
 
-![Whatsapp](icons/whatsapp.svg) [Digital nomads Sri Lanka 🇱🇰](https://chat.whatsapp.com/C1jBiDhWKG44Mf4e1qsO43)
+![Whatsapp](icons/whatsapp.svg) [Digital nomads Sri Lanka 🇱🇰](https://chat.whatsapp.com/IKlgoOhlEBV71NbhBCeQcj)
 
 ![Whatsapp](icons/whatsapp.svg) [Sri Lanka Nomads](https://chat.whatsapp.com/EFxtGC06nYP1idWVFfjzft)
 
